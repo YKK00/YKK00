@@ -1,5 +1,5 @@
 - Hi, I’m @YKK00.
-- I’m interested in Web development based on CSS, HTML, JavaScript and Vue.js.
+- I’m interested in Web development.
 - I’m currently learning Python and Java.
 
 <!---
